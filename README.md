@@ -1,11 +1,11 @@
-<h1 style="color: blue;">Soy Brajan, ¡Bienvenido a mi Github!</h1>
+## Soy Brajan, ¡Bienvenido a mi Github!
 
 - 👀 Técnico en Sistemas e ingeniería mecatrónica en curso...
 - 🌱 Cada día mejorando más en desarrollo backend y ciencia de datos...
 
 [![Linkedin Badge](https://img.shields.io/badge/-bjpulgarin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/bjpulgarin/) [![Gmail Badge](https://img.shields.io/badge/-bjpulgarin@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:bjpulgarin@gmail.com)](mailto:bjpulgarin@gmail.com)
 
-<h2 style="color: blue;">Tecnologías</h2>
+## Tecnologías
 
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
