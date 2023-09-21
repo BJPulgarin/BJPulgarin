@@ -4,4 +4,4 @@
 
 Contáctame
 
-[![Linkedin Badge](https://img.shields.io/badge/-bjpulgarin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/bjpulgarin/) | [![Gmail Badge](https://img.shields.io/badge/Gmail-bjpulgarin%40gmail.com-red?style=flat-square&logoColor=white)](mailto:bjpulgarin@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-bjpulgarin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/bjpulgarin/) | [![Gmail Badge](https://img.shields.io/badge/Gmail-bjpulgarin%40gmail.com-red?style=flat-square&logo=Gmail&logoColor=white)](mailto:bjpulgarin@gmail.com)
