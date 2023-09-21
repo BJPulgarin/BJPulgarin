@@ -13,6 +13,7 @@ Tecnologías
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bjpulgarin&hide=TeX&layout=compact)
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=bjpulgarin&count_private=true&show_icons=true&include_all_commits=true)
 
 
