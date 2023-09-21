@@ -1,4 +1,5 @@
-- 👋 Hola, soy Brajan!
+<h1 textcolor="blue">Soy Brajan, ¡Bienvenido a mi Github!</h1>
+
 - 👀 Técnico en Sistemas e ingeniería mecatrónica en curso...
 - 🌱 Cada día mejorando más en desarrollo backend y ciencia de datos...
 
