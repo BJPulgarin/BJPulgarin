@@ -4,7 +4,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-bjpulgarin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/bjpulgarin/) [![Gmail Badge](https://img.shields.io/badge/-bjpulgarin@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:bjpulgarin@gmail.com)](mailto:bjpulgarin@gmail.com)
 
-##Tecnologías
+<h2 color="blue">Tecnologías</h2>
 
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
