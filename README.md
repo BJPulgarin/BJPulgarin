@@ -4,7 +4,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-bjpulgarin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/bjpulgarin/) [![Gmail Badge](https://img.shields.io/badge/-bjpulgarin@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:bjpulgarin@gmail.com)](mailto:bjpulgarin@gmail.com)
 
-Tecnologías
+##Tecnologías
 
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
@@ -14,6 +14,5 @@ Tecnologías
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bjpulgarin&hide=TeX&layout=compact)
-![Github Stats](https://github-readme-stats.vercel.app/api?username=bjpulgarin&count_private=true&show_icons=true&include_all_commits=true)
 
 
